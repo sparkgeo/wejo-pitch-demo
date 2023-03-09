@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.control-panel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: 320px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2.5px 5px #141414;
+  padding: 12px 24px;
+  margin: 20px;
+  font-size: 13px;
+  line-height: 2;
+  color: #000;
+  text-transform: uppercase;
+  outline: none;
+}
